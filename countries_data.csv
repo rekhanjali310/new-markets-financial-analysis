@@ -1,0 +1,13 @@
+country,region,gdp_growth,population_m,risk_score
+Brazil,Latin America,2.9,215,45
+India,Asia Pacific,6.8,1400,35
+Vietnam,Asia Pacific,7.2,98,38
+Nigeria,Africa,3.1,220,62
+Mexico,Latin America,2.4,130,42
+Indonesia,Asia Pacific,5.3,275,40
+Egypt,Middle East,4.2,105,55
+Philippines,Asia Pacific,6.1,115,37
+Colombia,Latin America,2.8,52,48
+Kenya,Africa,5.5,55,50
+Morocco,Africa,3.8,37,44
+Thailand,Asia Pacific,3.5,72,36
